@@ -1,1 +1,1 @@
-console.lo('hello')
+console.lo('hello hanni')
